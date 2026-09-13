@@ -162,12 +162,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost tensorflow tqdm
 - Logistic Regression (Filtered): ~81% accuracy
 
 ---
-
-## Acknowledgements
-
-- Sensor data collected by project participants.
-- Open-source libraries: scikit-learn, xgboost, tensorflow, pandas, numpy, matplotlib, seaborn, tqdm, scipy.
-
----
-
-If you have any questions or need further help, please open an issue or contact the project maintainer. 
